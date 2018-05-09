@@ -1,0 +1,17 @@
+---
+platform: ahld
+csvFile: 'input\*.csv'
+mapFile: 
+regionCol: Color
+entersRegion: regionCol
+shoppingBehaviorCol: Behavior
+unitCountCol: Unit Count
+stdMetrics: False
+stdMetricsOutputDir: 'output'
+customMetrics: True
+eventType: StartStop
+
+
+
+
+
